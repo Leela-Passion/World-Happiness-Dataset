@@ -2,46 +2,46 @@
   {
     "p_rel_url" : "Leela-Passion/World-Happiness-Dataset/blob/main/WHR_2015.csv"
     "p_folder" : "2015"
-    "p_file" : "2015-parquet"
+    "p_file" : "2015.parquet"
   },
  {
     "p_rel_url" : "Leela-Passion/World-Happiness-Dataset/blob/main/WHR_2016.csv"
     "p_folder" : "2016"
-    "p_file" : "2016-parquet"
+    "p_file" : "2016.parquet"
   },
  {
     "p_rel_url" : "Leela-Passion/World-Happiness-Dataset/blob/main/WHR_2017.csv"
     "p_folder" : "2017"
-    "p_file" : "2017-parquet"
+    "p_file" : "2017.parquet"
   },
  {
     "p_rel_url" : "Leela-Passion/World-Happiness-Dataset/blob/main/WHR_2018.csv"
     "p_folder" : "2018"
-    "p_file" : "2018-parquet"
+    "p_file" : "2018.parquet"
   },
  {
     "p_rel_url" : "Leela-Passion/World-Happiness-Dataset/blob/main/WHR_2019.csv"
     "p_folder" : "2019"
-    "p_file" : "2019-parquet"
+    "p_file" : "2019.parquet"
   },
  {
     "p_rel_url" : "Leela-Passion/World-Happiness-Dataset/blob/main/WHR_2020.csv"
     "p_folder" : "2020"
-    "p_file" : "2020-parquet"
+    "p_file" : "2020.parquet"
   },
 {
     "p_rel_url" : "Leela-Passion/World-Happiness-Dataset/blob/main/WHR_2021.csv"
     "p_folder" : "2021"
-    "p_file" : "2021-parquet"
+    "p_file" : "2021.parquet"
   },
 {
     "p_rel_url" : "Leela-Passion/World-Happiness-Dataset/blob/main/WHR_2022.csv"
     "p_folder" : "2022"
-    "p_file" : "2022-parquet"
+    "p_file" : "2022.parquet"
   },
 {
     "p_rel_url" : "Leela-Passion/World-Happiness-Dataset/blob/main/WHR_2023.csv"
     "p_folder" : "2023"
-    "p_file" : "2023-parquet"
+    "p_file" : "2023.parquet"
   }
 ]
