@@ -1,11 +1,11 @@
 [
   {
-    "p_rel_url" : "Leela-Passion/World-Happiness-Dataset/blob/main/WHR_2015.csv",
+    "p_rel_url" : "Leela-Passion/World-Happiness-Dataset/blob/main/WHR_2017.csv",
     "p_folder" : "2015",
     "p_file" : "2015.parquet"
   },
   {
-    "p_rel_url" : "Leela-Passion/World-Happiness-Dataset/blob/main/WHR_2016.csv",
+    "p_rel_url" : "Leela-Passion/World-Happiness-Dataset/blob/main/WHR_2017.csv",
     "p_folder" : "2016",
     "p_file" : "2016.parquet"
   },
